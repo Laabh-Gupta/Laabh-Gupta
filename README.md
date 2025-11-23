@@ -118,8 +118,10 @@ I love building **impactful products** that solve real-world problems.
   <li><a href="https://github.com/Laabh-Gupta/Taxi_Prediction">Taxi_Prediction</a> — Predicting taxi demand using regression ML</li>
 </ul>
 
+---
 
 ### 🧠 <span style="color:#80FFEA">Natural Language Processing</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Sentimental-Analysis-Speech">Sentimental-Analysis-Speech</a> — Emotion & sentiment detection from speech using MFCCs + ML models</li>
   <li><a href="https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard">Sentiment-Analysis-Dashboard</a> — Visual dashboard for sentiment analysis using NLP</li>
@@ -129,6 +131,7 @@ I love building **impactful products** that solve real-world problems.
 ---
 
 ### 🧬 <span style="color:#FF8C8C">Medical & Healthcare AI</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Parkinsons-disease-Detection">Parkinsons-disease-Detection</a> — Early detection of Parkinson’s disease using ML on biomedical data</li>
 </ul>
@@ -136,6 +139,7 @@ I love building **impactful products** that solve real-world problems.
 ---
 
 ### 💰 <span style="color:#FFA500">FinTech & Fraud Detection</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Online_Payment_Fraud_Detection">Online_Payment_Fraud_Detection</a> — ML system to detect fraudulent transactions in financial services</li>
 </ul>
@@ -143,6 +147,7 @@ I love building **impactful products** that solve real-world problems.
 ---
 
 ### 👗 <span style="color:#FFAFE4">Fashion & Computer Vision</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/VirtualTryOn">VirtualTryOn</a> — Virtual clothing try-on using segmentation & geometric warping</li>
   <li><a href="https://github.com/Laabh-Gupta/CartoonizationOfHumanImage">CartoonizationOfHumanImage</a> — Image-to-cartoon transformation with OpenCV & deep learning</li>
@@ -151,6 +156,7 @@ I love building **impactful products** that solve real-world problems.
 ---
 
 ### 💻 <span style="color:#86FF80">Productivity & Full-Stack Web Apps</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Daily-Journal-App">Daily-Journal-App</a> — Full-stack journaling platform using Spring Boot + MongoDB</li>
   <li><a href="https://github.com/Laabh-Gupta/VXL">VXL</a> — Academic assignment & submission portal for institutions</li>
@@ -159,6 +165,7 @@ I love building **impactful products** that solve real-world problems.
 ---
 
 ### 🎮 <span style="color:#FF69B4">Games & Interactive Apps</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/MusicFruitNinja">MusicFruitNinja</a> — Interactive audio-based Fruit Ninja style game</li>
   <li><a href="https://github.com/Laabh-Gupta/SimonSays">SimonSays</a> — Front-end memory game</li>
@@ -168,6 +175,7 @@ I love building **impactful products** that solve real-world problems.
 ---
 
 ### 🧪 <span style="color:#C4C4C4">General Machine Learning</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Kaggle">Kaggle</a> — ML experiments & competition notebooks</li>
 </ul>

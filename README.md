@@ -3,6 +3,26 @@
 
 ---
 
+<p align="center">
+  <!-- Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,postgres,mongodb,spring,fastapi,react,nodejs,git,docker,tensorflow,pytorch&perline=8" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laabhgupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:reachlaabhgupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/laabhgupta/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
 ### 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/laabhgupta" target="_blank">LinkedIn</a> |
@@ -77,8 +97,6 @@ An ML model to generate clothing try-on outputs from user images.
 - 💡 HackClub — Selected among the **top 20 AI/ML students**
 
 ---
-
-### 📊 GitHub Metrics
 
 ### 📊 GitHub Analytics
 

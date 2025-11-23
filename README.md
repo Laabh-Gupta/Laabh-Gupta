@@ -3,12 +3,12 @@
 
 ---
 
-<p align="center">
+<p>
   <!-- Tech Icons -->
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,postgres,mongodb,spring,fastapi,react,nodejs,git,docker,tensorflow,pytorch&perline=8" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/laabhgupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

@@ -126,7 +126,7 @@ End-to-end deep learning system to detect **AI-generated vs. human voices**, dep
 
 ---
 
-#### 🔹 Daily Journal App (Full-Stack)
+#### <a href="https://github.com/Laabh-Gupta/Daily-Journal-App">🔹 Daily Journal App (Full-Stack) </a>
 Secure journaling platform with user authentication & persistent storage.  
 - Spring Boot + JWT + MongoDB + REST API  
 - Confluent Kafka integration for async processing  
@@ -137,7 +137,7 @@ Secure journaling platform with user authentication & persistent storage.
 
 ---
 
-#### 🔹 Virtual Try-On (Computer Vision)
+#### <a href="https://github.com/Laabh-Gupta/VirtualTryOn"> 🔹 Virtual Try-On (Computer Vision) </a>
 An ML model to generate clothing try-on outputs from user images.  
 - Body segmentation & pose alignment  
 - Warping apparel to the target area using geometric matching  

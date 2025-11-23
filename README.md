@@ -105,6 +105,13 @@ I love building **impactful products** that solve real-world problems.
 
 ---
 
+### 💪 Problem Solving
+- 🧠 Solved **370+ problems on LeetCode** — _Top 2% globally_
+- ⚙ Strong grasp of **Data Structures & Algorithms**
+- 💡 HackClub — Selected among the **top 20 AI/ML students**
+
+---
+
 ### 📌 Featured Projects
 
 #### 🔹 Voice Anti-Spoofing System (99.75% Accuracy)
@@ -137,13 +144,6 @@ An ML model to generate clothing try-on outputs from user images.
 - Trained on VITON dataset — achieved **85%+ SSIM**  
 
 📌 **Technologies:** PyTorch, OpenCV, NumPy
-
----
-
-### 💪 Problem Solving
-- 🧠 Solved **370+ problems on LeetCode** — _Top 2% globally_
-- ⚙ Strong grasp of **Data Structures & Algorithms**
-- 💡 HackClub — Selected among the **top 20 AI/ML students**
 
 ---
 

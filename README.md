@@ -3,23 +3,21 @@
 
 ---
 
-<p>
-  <!-- Tech Icons -->
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,postgres,mongodb,spring,fastapi,react,nodejs,git,docker,tensorflow,pytorch&perline=8" />
-</p>
+</div>
 
-<p>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/laabhgupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:reachlaabhgupta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/laabhgupta/" target="_blank">
+  <a href="https://leetcode.com/u/laabhgupta" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>
-
+</div>
 
 ---
 

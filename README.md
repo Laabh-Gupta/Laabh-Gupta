@@ -107,24 +107,91 @@ I love building **impactful products** that solve real-world problems.
 
 ## 🧭 Projects by Domain
 
-| Domain | Project | Description |
-|-------|---------|-------------|
-| **Voice Security & Anti-Spoofing** | [Voice-Anti-Spoofing-Web-App](https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App) | Full-stack web app using React + FastAPI for real-time voice spoof detection |
-| | [Voice_Anti_Spoofing_System](https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System) | Core deep learning models (CNN, ViT) for detecting AI-generated voices |
-| **Speech Analytics & NLP** | [Sentimental-Analysis-Speech](https://github.com/Laabh-Gupta/Sentimental-Analysis-Speech) | Emotion & sentiment detection from speech using MFCCs + ML models |
-| **Medical & Healthcare AI** | [Parkinsons-disease-Detection](https://github.com/Laabh-Gupta/Parkinsons-disease-Detection) | Early detection of Parkinson’s disease using ML on biomedical data |
-| **FinTech & Fraud Detection** | [Online_Payment_Fraud_Detection](https://github.com/Laabh-Gupta/Online_Payment_Fraud_Detection) | ML system to detect fraudulent transactions in financial services |
-| **Fashion & Computer Vision** | [VirtualTryOn](https://github.com/Laabh-Gupta/VirtualTryOn) | Virtual clothing try-on using segmentation & geometric warping |
-| | [CartoonizationOfHumanImage](https://github.com/Laabh-Gupta/CartoonizationOfHumanImage) | Image-to-cartoon style transfer using OpenCV & deep learning |
-| **Productivity / Full-Stack Apps** | [Daily-Journal-App](https://github.com/Laabh-Gupta/Daily-Journal-App) | Full-stack journaling platform using Spring Boot + MongoDB |
-| | [VXL](https://github.com/Laabh-Gupta/VXL) | Academic submission portal for assignments & coursework |
-| **Data Analytics & Dashboards** | [Sentiment-Analysis-Dashboard](https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard) | Visual sentiment analytics dashboard with NLP backend |
-| **Games & Interactive Apps** | [MusicFruitNinja](https://github.com/Laabh-Gupta/MusicFruitNinja) | Interactive audio-based Fruit Ninja style game |
-| | [SimonSays](https://github.com/Laabh-Gupta/SimonSays) | Mini reaction game built with front-end web tech |
-| | [DrumKit](https://github.com/Laabh-Gupta/DrumKit) | Browser-based drum kit using key/audio mapping |
-| **NLP & Chatbots** | [SimpleQuestionAnswerChatBot](https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot) | Q&A chatbot using basic NLP & Python |
-| **General Machine Learning** | [Kaggle](https://github.com/Laabh-Gupta/Kaggle) | ML experiments across datasets & competitions |
-| **Forecasting & Prediction** | [Taxi_Prediction](https://github.com/Laabh-Gupta/Taxi_Prediction) | Predicting taxi demand using regression models |
+## 🧭 Projects by Domain
+
+<div style="margin-left: 10px;">
+
+### 🔐 <span style="color:#FFD700">Voice Security & Anti-Spoofing</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App">Voice-Anti-Spoofing-Web-App</a> — Full-stack web app using React + FastAPI for real-time voice spoof detection</li>
+  <li><a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System">Voice_Anti_Spoofing_System</a> — Core deep learning models (CNN, ViT) for detecting AI-generated voices</li>
+</ul>
+
+---
+
+### 🧠 <span style="color:#80FFEA">Speech Analytics & NLP</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Sentimental-Analysis-Speech">Sentimental-Analysis-Speech</a> — Emotion & sentiment detection from speech using MFCCs + ML models</li>
+</ul>
+
+---
+
+### 🧬 <span style="color:#FF8C8C">Medical & Healthcare AI</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Parkinsons-disease-Detection">Parkinsons-disease-Detection</a> — Early detection of Parkinson’s disease using ML on biomedical data</li>
+</ul>
+
+---
+
+### 💰 <span style="color:#FFA500">FinTech & Fraud Detection</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Online_Payment_Fraud_Detection">Online_Payment_Fraud_Detection</a> — ML system to detect fraudulent transactions in financial services</li>
+</ul>
+
+---
+
+### 👗 <span style="color:#FFAFE4">Fashion & Computer Vision</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/VirtualTryOn">VirtualTryOn</a> — Virtual clothing try-on using segmentation & geometric warping</li>
+  <li><a href="https://github.com/Laabh-Gupta/CartoonizationOfHumanImage">CartoonizationOfHumanImage</a> — Image-to-cartoon transformation with OpenCV & deep learning</li>
+</ul>
+
+---
+
+### 💻 <span style="color:#86FF80">Productivity & Full-Stack Web Apps</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Daily-Journal-App">Daily-Journal-App</a> — Full-stack journaling platform using Spring Boot + MongoDB</li>
+  <li><a href="https://github.com/Laabh-Gupta/VXL">VXL</a> — Academic assignment & submission portal for institutions</li>
+</ul>
+
+---
+
+### 📊 <span style="color:#FFC300">Data Analytics & Dashboards</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard">Sentiment-Analysis-Dashboard</a> — Visual dashboard for sentiment analysis using NLP</li>
+</ul>
+
+---
+
+### 🎮 <span style="color:#FF69B4">Games & Interactive Apps</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/MusicFruitNinja">MusicFruitNinja</a> — Interactive audio-based Fruit Ninja style game</li>
+  <li><a href="https://github.com/Laabh-Gupta/SimonSays">SimonSays</a> — Front-end memory game</li>
+  <li><a href="https://github.com/Laabh-Gupta/DrumKit">DrumKit</a> — Browser-based drum kit using key/audio mapping</li>
+</ul>
+
+---
+
+### 💬 <span style="color:#00E1FF">NLP & Chatbots</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot">SimpleQuestionAnswerChatBot</a> — Q&A chatbot using NLP</li>
+</ul>
+
+---
+
+### 📈 <span style="color:#A588FF">Prediction & Forecasting</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Taxi_Prediction">Taxi_Prediction</a> — Predicting taxi demand using regression ML</li>
+</ul>
+
+---
+
+### 🧪 <span style="color:#C4C4C4">General Machine Learning</span>
+<ul>
+  <li><a href="https://github.com/Laabh-Gupta/Kaggle">Kaggle</a> — ML experiments & competition notebooks</li>
+</ul>
+
+</div>
 
 ---
 

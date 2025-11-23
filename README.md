@@ -105,6 +105,29 @@ I love building **impactful products** that solve real-world problems.
 
 ---
 
+## 🧭 Projects by Domain
+
+| Domain | Project | Description |
+|-------|---------|-------------|
+| **Voice Security & Anti-Spoofing** | [Voice-Anti-Spoofing-Web-App](https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App) | Full-stack web app using React + FastAPI for real-time voice spoof detection |
+| | [Voice_Anti_Spoofing_System](https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System) | Core deep learning models (CNN, ViT) for detecting AI-generated voices |
+| **Speech Analytics & NLP** | [Sentimental-Analysis-Speech](https://github.com/Laabh-Gupta/Sentimental-Analysis-Speech) | Emotion & sentiment detection from speech using MFCCs + ML models |
+| **Medical & Healthcare AI** | [Parkinsons-disease-Detection](https://github.com/Laabh-Gupta/Parkinsons-disease-Detection) | Early detection of Parkinson’s disease using ML on biomedical data |
+| **FinTech & Fraud Detection** | [Online_Payment_Fraud_Detection](https://github.com/Laabh-Gupta/Online_Payment_Fraud_Detection) | ML system to detect fraudulent transactions in financial services |
+| **Fashion & Computer Vision** | [VirtualTryOn](https://github.com/Laabh-Gupta/VirtualTryOn) | Virtual clothing try-on using segmentation & geometric warping |
+| | [CartoonizationOfHumanImage](https://github.com/Laabh-Gupta/CartoonizationOfHumanImage) | Image-to-cartoon style transfer using OpenCV & deep learning |
+| **Productivity / Full-Stack Apps** | [Daily-Journal-App](https://github.com/Laabh-Gupta/Daily-Journal-App) | Full-stack journaling platform using Spring Boot + MongoDB |
+| | [VXL](https://github.com/Laabh-Gupta/VXL) | Academic submission portal for assignments & coursework |
+| **Data Analytics & Dashboards** | [Sentiment-Analysis-Dashboard](https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard) | Visual sentiment analytics dashboard with NLP backend |
+| **Games & Interactive Apps** | [MusicFruitNinja](https://github.com/Laabh-Gupta/MusicFruitNinja) | Interactive audio-based Fruit Ninja style game |
+| | [SimonSays](https://github.com/Laabh-Gupta/SimonSays) | Mini reaction game built with front-end web tech |
+| | [DrumKit](https://github.com/Laabh-Gupta/DrumKit) | Browser-based drum kit using key/audio mapping |
+| **NLP & Chatbots** | [SimpleQuestionAnswerChatBot](https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot) | Q&A chatbot using basic NLP & Python |
+| **General Machine Learning** | [Kaggle](https://github.com/Laabh-Gupta/Kaggle) | ML experiments across datasets & competitions |
+| **Forecasting & Prediction** | [Taxi_Prediction](https://github.com/Laabh-Gupta/Taxi_Prediction) | Predicting taxi demand using regression models |
+
+---
+
 ### 💪 Problem Solving
 - 🧠 Solved **370+ problems on LeetCode** — _Top 2% globally_
 - ⚙ Strong grasp of **Data Structures & Algorithms**

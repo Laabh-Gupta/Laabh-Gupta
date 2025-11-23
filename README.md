@@ -108,8 +108,9 @@ I love building **impactful products** that solve real-world problems.
 ## 🧭 Projects by Domain
 
 <div style="margin-left: 10px;">
-<hr>
+
 ### 🧠 <span style="color:#FFD700">Generative AI</span>
+<div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App">Voice-Anti-Spoofing-Web-App</a> — Full-stack web app using React + FastAPI for real-time voice spoof detection</li>
   <li><a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System">Voice_Anti_Spoofing_System</a> — Deep learning models (CNN, ViT) detecting AI-generated speech</li>
@@ -117,7 +118,6 @@ I love building **impactful products** that solve real-world problems.
   <li><a href="https://github.com/Laabh-Gupta/Taxi_Prediction">Taxi_Prediction</a> — Predicting taxi demand using regression ML</li>
 </ul>
 
-</hr>
 
 ### 🧠 <span style="color:#80FFEA">Natural Language Processing</span>
 <ul>

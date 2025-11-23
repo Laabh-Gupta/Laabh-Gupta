@@ -104,6 +104,7 @@ An ML model to generate clothing try-on outputs from user images.
 <a href="https://github.com/Laabh-Gupta/Daily-Journal-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laabh-Gupta&repo=Daily-Journal-App&show_owner=true" />
 </a>
+
 ---
 
 ### 📫 Contact Me

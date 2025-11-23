@@ -149,8 +149,8 @@ An ML model to generate clothing try-on outputs from user images.
 
 ### 📌 Highlighted Projects
 
-<a href="https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laabh-Gupta&repo=Voice-Anti-Spoofing-System&show_owner=true" />
+<a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laabh-Gupta&repo=Voice_Anti_Spoofing_System&show_owner=true" />
 </a>
 
 <a href="https://github.com/Laabh-Gupta/Daily-Journal-App">

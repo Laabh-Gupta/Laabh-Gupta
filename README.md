@@ -107,19 +107,19 @@ I love building **impactful products** that solve real-world problems.
 
 ## 🧭 Projects by Domain
 
-## 🧭 Projects by Domain
-
 <div style="margin-left: 10px;">
 
-### 🔐 <span style="color:#FFD700">Voice Security & Anti-Spoofing</span>
+### 🧠 <span style="color:#FFD700">Generative AI</span>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App">Voice-Anti-Spoofing-Web-App</a> — Full-stack web app using React + FastAPI for real-time voice spoof detection</li>
-  <li><a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System">Voice_Anti_Spoofing_System</a> — Core deep learning models (CNN, ViT) for detecting AI-generated voices</li>
+  <li><a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System">Voice_Anti_Spoofing_System</a> — Deep learning models (CNN, ViT) detecting AI-generated speech</li>
+  <li><a href="https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot">SimpleQuestionAnswerChatBot</a> — Basic NLP chatbot with rule-based Q&A responses</li>
+  <li><a href="https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard">Sentiment-Analysis-Dashboard</a> — Visual dashboard for sentiment analysis using NLP</li>
 </ul>
 
 ---
 
-### 🧠 <span style="color:#80FFEA">Speech Analytics & NLP</span>
+### 🧠 <span style="color:#80FFEA">Natural Language Processing</span>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Sentimental-Analysis-Speech">Sentimental-Analysis-Speech</a> — Emotion & sentiment detection from speech using MFCCs + ML models</li>
 </ul>
@@ -156,13 +156,6 @@ I love building **impactful products** that solve real-world problems.
 
 ---
 
-### 📊 <span style="color:#FFC300">Data Analytics & Dashboards</span>
-<ul>
-  <li><a href="https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard">Sentiment-Analysis-Dashboard</a> — Visual dashboard for sentiment analysis using NLP</li>
-</ul>
-
----
-
 ### 🎮 <span style="color:#FF69B4">Games & Interactive Apps</span>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/MusicFruitNinja">MusicFruitNinja</a> — Interactive audio-based Fruit Ninja style game</li>
@@ -170,12 +163,6 @@ I love building **impactful products** that solve real-world problems.
   <li><a href="https://github.com/Laabh-Gupta/DrumKit">DrumKit</a> — Browser-based drum kit using key/audio mapping</li>
 </ul>
 
----
-
-### 💬 <span style="color:#00E1FF">NLP & Chatbots</span>
-<ul>
-  <li><a href="https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot">SimpleQuestionAnswerChatBot</a> — Q&A chatbot using NLP</li>
-</ul>
 
 ---
 

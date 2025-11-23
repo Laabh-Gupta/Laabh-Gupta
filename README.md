@@ -80,9 +80,30 @@ An ML model to generate clothing try-on outputs from user images.
 
 ### 📊 GitHub Metrics
 
-<!-- Visit this link once to activate: https://metrics.lecoq.io/ -->
-<img src="https://metrics.lecoq.io/Laabh-Gupta?template=classic&base.repositories=100&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.indepth=true&languages.analysis=percentage&config.timezone=Asia%2FKolkata" />
+### 📊 GitHub Analytics
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0D1117&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&langs_count=8&theme=react&bg_color=0D1117&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
+---
+### 📌 Highlighted Projects
+
+<a href="https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laabh-Gupta&repo=Voice-Anti-Spoofing-Web-App&show_owner=true" />
+</a>
+
+<a href="https://github.com/Laabh-Gupta/Daily-Journal-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laabh-Gupta&repo=Daily-Journal-App&show_owner=true" />
+</a>
 ---
 
 ### 📫 Contact Me

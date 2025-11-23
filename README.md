@@ -3,8 +3,6 @@
 
 ---
 
-<h2 align="left">Hi 👋! I'm Laabh Gupta — Full-Stack Developer & AI/ML Engineer</h2>
-
 <div align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
@@ -70,18 +68,16 @@
 
 ###
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Laabh-Gupta&show_icons=true&theme=radical" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&theme=radical&langs_count=8" />
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/laabhgupta" target="_blank">LinkedIn</a> |
-  <a href="https://leetcode.com/u/laabhgupta" target="_blank">LeetCode</a> |
-  <a href="mailto:reachlaabhgupta@gmail.com">Email</a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0D1117&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&langs_count=8&theme=react&bg_color=0D1117&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,21 +147,6 @@ An ML model to generate clothing try-on outputs from user images.
 
 ---
 
-### 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0D1117&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&langs_count=8&theme=react&bg_color=0D1117&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
----
 ### 📌 Highlighted Projects
 
 <a href="https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App">
@@ -175,13 +156,6 @@ An ML model to generate clothing try-on outputs from user images.
 <a href="https://github.com/Laabh-Gupta/Daily-Journal-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laabh-Gupta&repo=Daily-Journal-App&show_owner=true" />
 </a>
-
----
-
-### 📫 Contact Me
-📩 Email: **reachlaabhgupta@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/laabhgupta**  
-🧠 Open to **Internships / SDE / ML Roles**
 
 ---
 

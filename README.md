@@ -129,7 +129,7 @@ I love building **impactful products** that solve real-world problems.
 
 
 
-### 🧬 <span style="color:#FF8C8C">Medical & Healthcare AI</span>
+### 🧬 <span style="color:#FF8C8C">Medical & Healthcare</span>
 <div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Parkinsons-disease-Detection">Parkinsons-disease-Detection</a> — Early detection of Parkinson’s disease using ML on biomedical data</li>
@@ -137,7 +137,7 @@ I love building **impactful products** that solve real-world problems.
 
 
 
-### 💰 <span style="color:#FFA500">FinTech & Fraud Detection</span>
+### 💰 <span style="color:#FFA500">FinTech & FinServ</span>
 <div style="height:1px; background-color:#30363d; margin:8px 0;"></div>
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Online_Payment_Fraud_Detection">Online_Payment_Fraud_Detection</a> — ML system to detect fraudulent transactions in financial services</li>

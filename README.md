@@ -1,6 +1,5 @@
 # Laabh-Gupta
-<h1 align="center">Hi 👋, I'm Laabh Gupta</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Engineer | Problem Solver</h3>
+<h3>Full-Stack Developer | AI/ML Engineer | Problem Solver</h3>
 
 ---
 

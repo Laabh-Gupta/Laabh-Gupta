@@ -114,7 +114,7 @@ I love building **impactful products** that solve real-world problems.
 
 ### 📌 Featured Projects
 
-#### 🔹 Voice Anti-Spoofing System (99.75% Accuracy)
+#### <a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System"> 🔹 Voice Anti-Spoofing System (99.75% Accuracy) </a>
 End-to-end deep learning system to detect **AI-generated vs. human voices**, deployed as a **full-stack web app**.  
 - Built Mel Spectrogram + ViT/CNN models with data augmentation  
 - FastAPI backend serving PyTorch models via REST  

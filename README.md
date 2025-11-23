@@ -81,11 +81,11 @@ An ML model to generate clothing try-on outputs from user images.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Laabh-Gupta" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---

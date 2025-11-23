@@ -123,7 +123,7 @@ I love building **impactful products** that solve real-world problems.
 <ul>
   <li><a href="https://github.com/Laabh-Gupta/Sentimental-Analysis-Speech">Sentimental-Analysis-Speech</a> — Emotion & sentiment detection from speech using MFCCs + ML models</li>
   <li><a href="https://github.com/Laabh-Gupta/Sentiment-Analysis-Dashboard">Sentiment-Analysis-Dashboard</a> — Visual dashboard for sentiment analysis using NLP</li>
-  li><a href="https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot">SimpleQuestionAnswerChatBot</a> — Basic NLP chatbot with rule-based Q&A responses</li>
+  <li><a href="https://github.com/Laabh-Gupta/SimpleQuestionAnswerChatBot">SimpleQuestionAnswerChatBot</a> — Basic NLP chatbot with rule-based Q&A responses</li>
 </ul>
 
 ---
@@ -180,41 +180,6 @@ I love building **impactful products** that solve real-world problems.
 - 🧠 Solved **370+ problems on LeetCode** — _Top 2% globally_
 - ⚙ Strong grasp of **Data Structures & Algorithms**
 - 💡 HackClub — Selected among the **top 20 AI/ML students**
-
----
-
-### 📌 Featured Projects
-
-#### <a href="https://github.com/Laabh-Gupta/Voice_Anti_Spoofing_System"> 🔹 Voice Anti-Spoofing System (99.75% Accuracy) </a>
-End-to-end deep learning system to detect **AI-generated vs. human voices**, deployed as a **full-stack web app**.  
-- Built Mel Spectrogram + ViT/CNN models with data augmentation  
-- FastAPI backend serving PyTorch models via REST  
-- React.js frontend for real-time audio classification  
-- Deployed multiple versions with research-to-production gap covered  
-- Currently exploring real-time streaming & advanced audio transformer models  
-
-📌 **Technologies:** PyTorch, FastAPI, React.js, Vision Transformer, CNNs
-
----
-
-#### <a href="https://github.com/Laabh-Gupta/Daily-Journal-App">🔹 Daily Journal App (Full-Stack) </a>
-Secure journaling platform with user authentication & persistent storage.  
-- Spring Boot + JWT + MongoDB + REST API  
-- Confluent Kafka integration for async processing  
-- Hibernate ORM optimization  
-- Deployed locally via Maven + Node.js  
-
-📌 **Technologies:** Spring Boot, Spring Security, MongoDB, Kafka
-
----
-
-#### <a href="https://github.com/Laabh-Gupta/VirtualTryOn"> 🔹 Virtual Try-On (Computer Vision) </a>
-An ML model to generate clothing try-on outputs from user images.  
-- Body segmentation & pose alignment  
-- Warping apparel to the target area using geometric matching  
-- Trained on VITON dataset — achieved **85%+ SSIM**  
-
-📌 **Technologies:** PyTorch, OpenCV, NumPy
 
 ---
 

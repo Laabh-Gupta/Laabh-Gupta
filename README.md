@@ -117,7 +117,7 @@ I love building **impactful products** that solve real-world problems.
   <li><a href="https://github.com/Laabh-Gupta/Taxi_Prediction">Taxi_Prediction</a> — Predicting taxi demand using regression ML</li>
 </ul>
 
----
+
 
 ### 🧠 <span style="color:#80FFEA">Natural Language Processing</span>
 <ul>

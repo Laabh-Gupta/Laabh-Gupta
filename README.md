@@ -71,10 +71,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0D1117&hide_border=true" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0D1117&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&langs_count=8&theme=react&bg_color=0D1117&hide_border=true" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Laabh-Gupta&layout=compact&langs_count=8&theme=react&bg_color=0D1117&hide_border=true" />
     </td>
   </tr>
 </table>

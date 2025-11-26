@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
 
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laabh-Gupta&show_icons=true&include_all_commits=true&hide_rank=true&theme=react&bg_color=0D1117&hide_border=true"
@@ -91,7 +91,7 @@
     height="150"
   />
 
-</div>
+</div> -->
 
 
 ---
